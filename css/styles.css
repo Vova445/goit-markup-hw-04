@@ -377,7 +377,8 @@ address .address{
 }
 
 .workers{
-    padding: 32px 16px;
+    
+    padding: 32px 0;
 }
 
 .visually-hidden {
@@ -479,4 +480,43 @@ address .address{
 
 .icon-modal:hover, .icon-modal:focus{
     fill: #ffffff
+}
+
+
+.list-four .li-one{
+    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
+}
+
+
+.social-networks{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+
+}
+
+
+.networks{
+    width: 40px;
+    height: 40px;
+}
+
+.networks-links{
+    width: 100%;
+    height: 100%;
+    background-color: #4d5ae5;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.networks-links:hover, .networks-links:focus{
+    background-color: #404bbf;
+}
+
+
+.icon-networks{
+    fill: #f4f4fd;
 }
