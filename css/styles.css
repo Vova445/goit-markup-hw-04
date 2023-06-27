@@ -550,6 +550,10 @@ address .address{
     gap: 24px;
 }
 
+.clients li{
+    transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1), color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
 
 .link-five{
     width: 100%;
@@ -634,5 +638,10 @@ address .address{
 }
 
 .footer-icons{
-    
+    fill: var(--icon-fill-one)
+}
+
+
+.footer-ul-social-media li{
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
