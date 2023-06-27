@@ -638,6 +638,6 @@ address .address{
 }
 
 
-.footer-ul-social-media .li-one-footer{
+.footer-ul-social-media .link-footer-social-media{
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
