@@ -583,9 +583,6 @@ margin-bottom: 8px;
     fill: currentColor;
 }
 
-.customers-icons:hover{
-    fill: #404BBF;
-}
 
 .clients .link-five{
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1), color 250ms cubic-bezier(0.4, 0, 0.2, 1);
