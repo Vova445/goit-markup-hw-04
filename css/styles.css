@@ -336,13 +336,16 @@ margin-bottom: 8px;
     padding: 12px 24px;
     border: 1px solid #e7e9fc;
     border-radius: 4px;
+
 }
+
 
 .button-page-two:hover, .button-page-two:focus{
     color: #ffffff;
     background-color: #404bbf;
     cursor: pointer;
     border: 1px solid transparent;
+    box-shadow: 0px 2px 2px 0px #0000001F, 0px 2px 1px 0px #00000014, 0px 3px 1px 0px #0000001A;
 }
 :root{
     --span-color: #2e2f42;
