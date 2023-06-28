@@ -583,7 +583,7 @@ margin-bottom: 8px;
     fill: currentColor;
 }
 
-.customers-icons:hover{
+.icon-hover:hover{
     fill: #404BBF;
 }
 
