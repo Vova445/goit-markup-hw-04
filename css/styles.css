@@ -672,16 +672,11 @@ margin-bottom: 8px;
 
 .overlay {
     padding: 8px;
-    background-color: #3f51b5;
-    color: #fff;
-    font-family: sans-serif;
-      position: absolute;
-      top: 0;
-      left: 0;
+    background-color:#4D5AE5;
       width: 100%;
       height: 100%;
       transform: translateY(100%);
-      transition: transform 250ms ease-in-out;
+      transition: transform 350ms ease-in-out;
   }
 
   .link-overlay:hover .overlay{
